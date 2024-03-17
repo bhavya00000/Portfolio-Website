@@ -41,7 +41,7 @@ const Navbar = () => {
             <MobileLink href='#skills' onClick={() => {
               setIsOpen(!isOpen)
             }}>Skills</MobileLink>
-            <MobileLink href='#contact' onClick={() => {
+            <MobileLink href='#experience' onClick={() => {
               setIsOpen(!isOpen)
             }}>Experience</MobileLink>
             <MobileLink href='#projects' onClick={() => {
