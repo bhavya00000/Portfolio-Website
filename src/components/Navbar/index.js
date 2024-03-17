@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to='/'>
+        <NavLogo to="/" >
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
           <img src={"https://i.pinimg.com/originals/55/86/9a/55869ac24b3ec8317107574b1f602691.png"} alt="Your Logo" style={{ marginRight: '10px', width: '3rem', height: '3rem' }} /> <Span>Bhavya Mehta</Span>
           </a>

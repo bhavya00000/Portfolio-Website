@@ -334,7 +334,7 @@ export const projects = [
       "Seaborn",
     ],
     category: "web app",
-    github: "hhttps://github.com/bhavya00000/Python-Project",
+    github: "https://github.com/bhavya00000/Python-Project",
     // webapp: "https://vexa-app.netlify.app/",
   },
   {
