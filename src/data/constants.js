@@ -11,7 +11,7 @@ export const Bio = {
     "A passionate tech-learner with a 'can-do' attitude, I'm constantly exploring new languages and tools. I bring a positive mindset and a growth focus to every project, always striving to deliver impactful solutions. Let's collaborate and build something amazing!",
   github: "https://github.com/bhavya00000",
   resume:
-    "https://drive.google.com/file/d/108u9RiwNH77kO6wf_POIaC_X2w1amd1n/view?usp=sharing",
+    "https://drive.google.com/file/d/1pe8jpCTGYlBl3WOIyRBVmAKVzoxMuf6b/view",
   linkedin: "https://www.linkedin.com/in/bhavyamehta18",
   twitter: "https://twitter.com/bhavyx18",
   insta: "https://www.instagram.com/bhavya.m18/",
@@ -179,6 +179,27 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 9,
+    title: "DineEase",
+    date: "April 2024 - May 2023",
+    description:
+      "The restaurant portfolio website, powered by React.js, Node.js, and MongoDB, enhances online visibility by showcasing comprehensive restaurant details and streamlining table reservations, thereby fostering seamless customer engagement and dining experiences. ",
+    image:
+      "https://i.pinimg.com/736x/6f/1f/0c/6f1f0c8be8ceff257b76c30f89640adf.jpg",
+    tags: [
+      "Node.js",
+      "React.js",
+      "HTML/CSS",
+      "JavaScript",
+      "MongoDB",
+      "Git",
+      "Github",
+    ],
+    category: "web app",
+    github: "https://github.com/bhavya00000/DineEase",
+    webapp: "https://dineeasereservation.netlify.app/"
+  },
   {
     id: 9,
     title: "VrikshMitra",
